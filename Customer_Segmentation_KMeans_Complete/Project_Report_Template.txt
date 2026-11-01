@@ -1,0 +1,35 @@
+PROJECT REPORT: CUSTOMER SEGMENTATION USING K-MEANS
+
+1. AIM
+To group customers into segments based on annual income and spending score using the K-Means clustering algorithm.
+
+2. PROBLEM STATEMENT
+A business may have customers with different income levels and spending behaviour. Customer segmentation helps summarize these patterns into groups for general marketing analysis.
+
+3. DATASET
+The ZIP includes a synthetic educational dataset of 200 customer records. Refer to DATASET_NOTE.txt. Replace it with the original Kaggle dataset if required by your instructor.
+
+4. SOFTWARE AND LIBRARIES
+Python, VS Code, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
+
+5. FEATURES USED
+Annual Income (k$) and Spending Score (1-100).
+
+6. METHODOLOGY
+Data loading, inspection, feature selection, standard scaling, Elbow Method, K-Means clustering, silhouette evaluation and visualization.
+
+7. RESULTS
+Fill these values after running the project:
+Number of records: __________________
+Number of clusters: 5
+Silhouette score: __________________
+Cluster sizes: Refer to results/model_summary.txt
+
+8. OUTPUT GRAPHS
+Attach all three PNG graphs from the outputs folder.
+
+9. CONCLUSION
+K-Means was applied to group customers with similar annual income and spending scores. The cluster graph and profile table help describe the resulting groups.
+
+10. LIMITATIONS
+The bundled data is synthetic and intended for learning. Cluster results depend on the dataset, selected features and chosen number of clusters.

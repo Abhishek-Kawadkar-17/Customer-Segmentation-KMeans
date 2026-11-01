@@ -1,0 +1,7 @@
+DATASET NOTE
+
+This ZIP includes a synthetic educational dataset of 200 sample customer records, generated for this project so that it can run immediately after extraction. It is not represented as the original Kaggle Mall Customers data.
+
+Columns: CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100).
+
+For a submission requiring the original dataset, download the Mall Customer Segmentation dataset from Kaggle and replace this CSV while preserving the column names.

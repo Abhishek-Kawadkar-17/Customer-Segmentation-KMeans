@@ -1,0 +1,13 @@
+CUSTOMER SEGMENTATION USING K-MEANS - START HERE
+
+1. Extract this ZIP file.
+2. Make sure Python 3.9 or later is installed.
+3. On Windows, double-click RUN_PROJECT.bat.
+4. The first run needs an internet connection to install Python libraries.
+5. When the program finishes, open outputs/ for graphs and results/ for CSV files and model summary.
+
+You can also open this folder in VS Code and run:
+  python -m pip install -r requirements.txt
+  python customer_segmentation.py
+
+The included dataset is a synthetic educational demo dataset with 200 sample customer rows. It is included so the project runs without separately downloading a CSV. If your instructor specifically requires the original Kaggle Mall Customers dataset, replace data/Mall_Customers.csv with that original file (keep the same five column names).

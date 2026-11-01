@@ -1,0 +1,12 @@
+PRESENTATION OUTLINE
+
+Slide 1: Customer Segmentation using K-Means
+Slide 2: Introduction - meaning of customer segmentation
+Slide 3: Problem Statement - different customers have different income and spending behaviour
+Slide 4: Dataset - 200 sample records; annual income and spending score used
+Slide 5: Tools - Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Slide 6: Methodology - load, inspect, scale, Elbow Method, K-Means, evaluation, visualization
+Slide 7: K-Means - unsupervised algorithm that groups similar data points
+Slide 8: Elbow Method - insert 01_elbow_method.png
+Slide 9: Customer segments - insert 02_customer_segments.png
+Slide 10: Cluster comparison and conclusion - insert 03_cluster_comparison.png and report actual silhouette score
